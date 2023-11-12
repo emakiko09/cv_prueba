@@ -38,7 +38,6 @@ h2{
     background-color: #fff;
     border-radius: 15px;
     text-align: center;
-    letter-spacing: 3cap;
     margin: 8px;
 }
 .info-izq li{
@@ -114,6 +113,11 @@ h2{
     .tarj{
         padding: 20px 50px;
     }
+    .info-izq{
+        display: flex;
+        text-align: left;  
+    }
+    
 }
 
 
